@@ -1,5 +1,8 @@
 {
 	"domain": "custom_platforms",
 	"name": "Custom Platforms",
-	"version": "1.0"
+	"version": "1.0",
+	"codeowners": ["@ItsManu"],
+	"documentation": "https://github.com/Manuel-Materazzo/home-assistant-custom-platforms",
+	"issue_tracker": "https://github.com/Manuel-Materazzo/home-assistant-custom-platforms/issues"
 }
